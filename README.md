@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gaurav Singh!
+# f44b Hi, Im Gaurav Singh!
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F70000&multiline=true&width=500&lines=Web+Developer+%7C+ML+Enthusiast+%7C+Open+Source+Lover;Always+learning+something+new!;Welcome+to+my+GitHub+Portfolio!+" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,41 +35,43 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <p align="center">
   <a href="https://github.com/gaurav4288/ChatIO">
     <img alt="chatIO" src="https://img.shields.io/badge/chatIO-Real%20time%20chat-blue?style=for-the-badge&logo=wechat">
   </a>
   <br>
-  <i>🚀 Real-time chat app with Socket.io and React</i>
+  <i> Real-time chat app with Socket.io and React</i>
   <br><br>
   <a href="https://github.com/gaurav4288/VideoTube_Backend">
     <img alt="VideoTube" src="https://img.shields.io/badge/VideoTube-Streaming-orange?style=for-the-badge&logo=youtube">
   </a>
   <br>
-  <i>📺 Backend service for a video streaming platform</i>
+  <i> Backend service for a video streaming platform</i>
 </p>
 
 ---
 
-## 📊 Languages Used
+##  Languages Used
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav4288&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav4288&layout=compact&theme=radical" alt="Top languages" />
+  <br/>
+  <em>If this graph does not load, please visit my <a href="https://github.com/gaurav4288?tab=repositories">repositories page</a> for language details.</em>
 </div>
 
 ---
 
-## 🎯 Fun Facts
+##  Fun Facts
 
-- ☕ Coffee and code are my perfect duo.
-- ♟️ Always up for a game of chess or a quick hackathon!
-- 🤖 Probably automating something right now.
+-  Coffee and code are my perfect duo.
+-  Always up for a game of chess or a quick hackathon!
+-  Probably automating something right now.
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-singh-7a1472268)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gaurav4288)
@@ -77,4 +79,4 @@
 
 ---
 
-<div align="center"><b>“Building the future, one project at a time.”</b></div>
+<div align="center"><b>Building the future, one project at a time.</b></div>

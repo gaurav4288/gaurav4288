@@ -28,6 +28,8 @@
 ---
 
 <div align="center">
+  <!-- Stats Card -->
+  ![Gaurav4288's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav4288&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav4288&theme=radical" height="170">
 </div>
 
@@ -55,6 +57,8 @@
 
 <div align="center">
   <br/>
+  <!-- Top Languages Card -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav4288&layout=compact&theme=tokyonight)
   <em>here are some of my main languages:</em>
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">

@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Gaurav Singh!
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F70000&multiline=true&width=500&lines=Web+Developer+%7C+ML+Enthusiast+%7C+Open+Source+Lover;Always+learning+something+new!;Welcome+to+my+GitHub+Portfolio!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F70000&multiline=true&width=500&lines=Web+Developer+%7C+ML+Enthusiast+%7C+Open+Source;Always+learning+something+new!;Welcome+to+my+GitHub+Portfolio!+" alt="Typing SVG" />
 </p>
 
 **Student | Full-Stack Web Developer | Machine Learning Enthusiast**

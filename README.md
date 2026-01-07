@@ -56,9 +56,8 @@
 ## 📊 Languages Used
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav4288&layout=compact&theme=radical" alt="Top languages" />
   <br/>
-  <em>If the above chart does not load, here are some of my main languages:</em>
+  <em>here are some of my main languages:</em>
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">

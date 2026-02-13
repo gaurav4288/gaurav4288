@@ -91,7 +91,7 @@
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav4288&theme=redical&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav4288&theme=radical&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
 </p>
 
 ---

@@ -63,12 +63,38 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav4288&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav4288&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav4288&theme=radical&hide_border=true" alt="gaurav4288's contribution streak" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav4288&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav4288&theme=radical&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+</p>
+
+---
 
 ## 🎯 Fun Facts
 
